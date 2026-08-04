@@ -7,3 +7,6 @@ zdrojovém repozitáři. Obsah tohoto repozitáře aktualizuje automaticky GitHu
 Actions po pushi do zdrojové větve `main`.
 
 Vygenerované soubory neupravuj ručně.
+
+Workflow `.github/workflows/pages.yml` publikuje každý commit v `main` na
+GitHub Pages.
