@@ -1,0 +1,1 @@
+(r=>{r(".section-statistics .count").each(function(){var t=r(this),e=Number(t.attr("data-count"));Number.isFinite(e)?t.closest(".item").appear(function(){t.countTo({from:0,to:e,speed:2e3,refreshInterval:50})}):t.attr("data-count-error","invalid")})})(jQuery);
