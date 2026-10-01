@@ -40,24 +40,6 @@
             <loc>https://www.staroceska-chalupa.cz/gdpr.html</loc>
         </url>
         <url>
-            <loc>https://www.staroceska-chalupa.cz/</loc>
-            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/" />
-            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/" />
-            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/" />
-        </url>
-        <url>
-            <loc>https://www.staroceska-chalupa.cz/en/</loc>
-            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/" />
-            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/" />
-            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/" />
-        </url>
-        <url>
-            <loc>https://www.staroceska-chalupa.cz/de/</loc>
-            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/" />
-            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/" />
-            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/" />
-        </url>
-        <url>
             <loc>https://www.staroceska-chalupa.cz/pravidla.html</loc>
             <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/pravidla.html" />
             <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/pravidla.html" />
@@ -74,24 +56,6 @@
             <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/pravidla.html" />
             <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/pravidla.html" />
             <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/pravidla.html" />
-        </url>
-        <url>
-            <loc>https://www.staroceska-chalupa.cz/prijezd.html</loc>
-            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/prijezd.html" />
-            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/prijezd.html" />
-            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/prijezd.html" />
-        </url>
-        <url>
-            <loc>https://www.staroceska-chalupa.cz/en/prijezd.html</loc>
-            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/prijezd.html" />
-            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/prijezd.html" />
-            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/prijezd.html" />
-        </url>
-        <url>
-            <loc>https://www.staroceska-chalupa.cz/de/prijezd.html</loc>
-            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/prijezd.html" />
-            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/prijezd.html" />
-            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/prijezd.html" />
         </url>
         <url>
             <loc>https://www.staroceska-chalupa.cz/room1.html</loc>
@@ -182,5 +146,41 @@
             <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/room5.html" />
             <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/room5.html" />
             <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/room5.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/en/</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/de/</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/prijezd.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/prijezd.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/prijezd.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/prijezd.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/en/prijezd.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/prijezd.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/prijezd.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/prijezd.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/de/prijezd.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/prijezd.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/prijezd.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/prijezd.html" />
         </url>
 </urlset>

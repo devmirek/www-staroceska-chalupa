@@ -1,0 +1,1 @@
+(t=>{function e(){t.querySelectorAll("[data-inquiry-title] iframe").forEach(function(t){var e=t.closest("[data-inquiry-title]");e&&e.dataset.inquiryTitle&&(t.title=e.dataset.inquiryTitle)})}e(),new MutationObserver(e).observe(t.body,{childList:!0,subtree:!0})})(document);
