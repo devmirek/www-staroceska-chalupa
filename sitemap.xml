@@ -183,4 +183,94 @@
             <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/prijezd.html" />
             <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/prijezd.html" />
         </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/vylety.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/vylety.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/vylety.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/vylety.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/en/vylety.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/vylety.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/vylety.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/vylety.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/de/vylety.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/vylety.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/vylety.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/vylety.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/fotografie.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/fotografie.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/fotografie.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/fotografie.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/en/fotografie.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/fotografie.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/fotografie.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/fotografie.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/de/fotografie.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/fotografie.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/fotografie.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/fotografie.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/lyzovani.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/lyzovani.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/lyzovani.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/lyzovani.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/en/lyzovani.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/lyzovani.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/lyzovani.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/lyzovani.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/de/lyzovani.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/lyzovani.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/lyzovani.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/lyzovani.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/jidlo.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/jidlo.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/jidlo.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/jidlo.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/en/jidlo.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/jidlo.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/jidlo.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/jidlo.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/de/jidlo.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/jidlo.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/jidlo.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/jidlo.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/nakupy.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/nakupy.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/nakupy.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/nakupy.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/en/nakupy.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/nakupy.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/nakupy.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/nakupy.html" />
+        </url>
+        <url>
+            <loc>https://www.staroceska-chalupa.cz/de/nakupy.html</loc>
+            <xhtml:link rel="alternate" hreflang="cs" href="https://www.staroceska-chalupa.cz/nakupy.html" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.staroceska-chalupa.cz/en/nakupy.html" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.staroceska-chalupa.cz/de/nakupy.html" />
+        </url>
 </urlset>
